@@ -1,0 +1,14 @@
+#pipeline-stage-step:293.v200037eefcd5
+
+#pipeline-stage-view:2.24
+
+#localization-zh-cn:1.0.24
+
+#docker-workflow:1.28
+
+#docker-build-step:2.8
+
+# from url
+docker-build-step:::https://mirrors.tuna.tsinghua.edu.cn/jenkins/plugins/docker-build-step/2.8/docker-build-step.hpi
+
+localization-zh-cn:::https://mirrors.tuna.tsinghua.edu.cn/jenkins/plugins/localization-zh-cn/1.0.24/localization-zh-cn.hpi
